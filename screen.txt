@@ -1,0 +1,64 @@
+$ gcc cipher.c && ./a.out
+
+===============
+  Cipher Menu
+===============
+1. Encode
+2. Decode
+1
+Your response was interpreted as: Encode.
+===============
+ Encoding Menu
+===============
+Do you have a seed? (y/n)
+y
+Enter seed: 314
+Your seed is: 314.
+===============
+  Input Menu
+===============
+1. File Input
+2. Text Input (Less than 256 characters.)
+1
+Name of file (With .txt Extension): input.txt
+===============
+  Output Menu
+===============
+How would you like your string to be printed?
+1. File
+2. On Screen
+1
+Name of file (With .txt Extension): output1.txt
+Data saved to output1.txt file.
+
+$ gcc cipher.c && ./a.out
+
+===============
+  Cipher Menu
+===============
+1. Encode
+2. Decode
+1
+Your response was interpreted as: Encode.
+===============
+ Encoding Menu
+===============
+Do you have a seed? (y/n)
+n
+Your seed is: 1620926850.
+===============
+  Input Menu
+===============
+1. File Input
+2. Text Input (Less than 256 characters.)
+1
+Name of file (With .txt Extension): input.txt
+===============
+  Output Menu
+===============
+How would you like your string to be printed?
+1. File
+2. On Screen
+1
+Name of file (With .txt Extension): output2.txt
+Data saved to output2.txt file.
