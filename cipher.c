@@ -9,7 +9,6 @@ void encode();
 void decode();
 void output(char *);
 char *getWords();
-// int *fillRandoms(int,int);
 int main(int argc, char *argv[]) {
   printf(
       "===============\n  Cipher Menu\n===============\n1. Encode\n2. "
